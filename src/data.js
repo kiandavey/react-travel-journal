@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mt._Fuji_from_Oshino.jpg/1200px-Mt._Fuji_from_Oshino.jpg",
+            src: "https://upload.wikimedia.org/wikipedia/commons/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg",
             alt: "Mount Fuji"
         },
         title: "Mount Fuji",
@@ -14,7 +14,7 @@ export default [
     {
         id: 2,
         img: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sydney_Opera_House_Sails.jpg/1200px-Sydney_Opera_House_Sails.jpg",
+            src: "https://ychef.files.bbci.co.uk/1280x720/p0gp95cq.jpg",
             alt: "Sydney Opera House"
         },
         title: "Sydney Opera House",
@@ -74,7 +74,7 @@ export default [
     {
         id: 7,
         img: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kheops-Pyramid.jpg/1200px-Kheops-Pyramid.jpg",
+            src: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
             alt: "Pyramids of Giza"
         },
         title: "Pyramids of Giza",
@@ -98,7 +98,7 @@ export default [
     {
         id: 9,
         img: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/1200px-Taj_Mahal_in_March_2004.jpg",
+            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1280px-Taj_Mahal_%28Edited%29.jpeg",
             alt: "Taj Mahal"
         },
         title: "Taj Mahal",
